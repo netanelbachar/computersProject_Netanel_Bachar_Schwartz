@@ -281,4 +281,4 @@ def fit_linear (input):
         print(ex)
 
 
-fit_linear("input.txt")    #Input text file in this function
+# fit_linear("input.txt")     #Input text file in this function
