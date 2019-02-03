@@ -280,4 +280,5 @@ def fit_linear (input):
     except Exception as ex:
         print(ex)
 
-fit_linear ("input.txt")
+
+fit_linear("input.txt")    #Input text file in this function
